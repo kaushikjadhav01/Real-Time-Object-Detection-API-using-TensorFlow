@@ -59,3 +59,12 @@ More information can be found <a href="http://www.cogsys.org/papers/2013poster15
 <li>To use smartphone camera in place of laptop webcam, install <b>IPWebcam</b> app on your smartphone from app store. Open app and click on <b>Start Server</b></li>
 <li>Replace the IP address in my jupyter notebooks with IP address in app on Smartphone and run the notebooks</li>
 </ol>
+
+# Authors
+## Kaushik Jadhav
+<ul>
+<li>Github:https://github.com/kaushikjadhav01</li>
+<li>Medium:https://medium.com/@kaushikjadhav01</li>
+<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
+<li>Portfolio:http://kaushikjadhav01.github.io/</li>
+</ul>
